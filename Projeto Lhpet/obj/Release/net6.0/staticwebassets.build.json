@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5CBiPgVRRz3ZvS55zDRJbR2J4q+tdvkr4uSG5DHEEao=",
+  "Source": "Projeto Lhpet",
+  "BasePath": "_content/Projeto Lhpet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Lhpet\\wwwroot",
+      "Source": "Projeto Lhpet",
+      "ContentRoot": "C:\\Users\\Usuário\\Desktop\\Projeto Lhpet\\wwwroot\\",
+      "BasePath": "_content/Projeto Lhpet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Usuário\\Desktop\\Projeto Lhpet\\wwwroot\\index.html",
+      "SourceId": "Projeto Lhpet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuário\\Desktop\\Projeto Lhpet\\wwwroot\\",
+      "BasePath": "_content/Projeto Lhpet",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

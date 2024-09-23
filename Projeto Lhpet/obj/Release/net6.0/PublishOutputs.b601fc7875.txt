@@ -1,0 +1,13 @@
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\Projeto Lhpet.exe
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\Projeto Lhpet.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\Projeto Lhpet.deps.json
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\Projeto Lhpet.runtimeconfig.json
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\Projeto Lhpet.pdb
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuário\Desktop\Projeto Lhpet\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
